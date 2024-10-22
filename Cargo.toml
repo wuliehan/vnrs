@@ -1,7 +1,11 @@
 [package]
 name = "vnrs"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
+description = "vnpy written in Rust"
+repository = "https://github.com/wuliehan/vnrs"
+license = "MIT"
+authors = ["Liehan Wu <wlh9999@hotmail.com>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
